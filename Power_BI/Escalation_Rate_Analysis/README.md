@@ -1,5 +1,3 @@
-# ALERT ESCALATION RATE
-
 > This is a project I worked on while in my position as a Sanctions Screening analyst - it has been recreated with dummy data.
 > 
 
