@@ -1,0 +1,24 @@
+Tables description:
+
+Bookings table - 
+  This is the original source file table, which was transformed to only contain booking-related details.
+    Calculated columns include: 
+      Booking Date, CUSTOMER_ID, Total Nights, Lead Time Bucket, Cancellation History Bucket, Room Type Mismatch, Special Request Bucket, Babies Bucket, 
+      Adults Bucket, Children Bucket, Parking Request Bucket.
+
+Customer_lookup table - 
+  A unique Customer ID column was created using a combination of name, email address, and country of origin. 94 duplicate customer entries were found and removed. 
+  119,296 unique customer records were identified.
+
+Calendar_lookup table – 
+  To better represent the date hierarchy in Power BI, a calendar_lookup table was created using the Arrival Date (a combination of year, month, and day columns). 
+  Year, Quarter, Month, and Week columns were populated based on this Date column.
+
+Territory_lookup table – 
+  Contains country and continent names used for detailed customer demographic analysis.
+
+Measures_table – 
+  Contains all the explicit measures used in the analysis.
+
+Fields Parameters – 
+  Parameters used to alternate between measures in selected charts.
