@@ -22,7 +22,7 @@ Each project is organized in its own folder with:
 ---
 
 ## Table of Contents
-  1. [Escalation Rate Analysis](PORTFOLIO/Power_BI/Escalation_Rate_Analysis)
-
+  1. [Escalation Rate Analysis](Power_BI/Escalation_Rate_Analysis)
+  2. [Hotel Bookings](Power_BI/Hotel_Bookings)
 
 ---
