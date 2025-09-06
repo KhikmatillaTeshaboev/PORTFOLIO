@@ -1,3 +1,8 @@
+### Preview of Projects
+
+This directory stores dashboards I worked on, where the main end result is a Power BI dashboard (`pbix`). It also showcases skills in in ETL and EDA with SQL, Excel, Power Query and DAX.
+
+
 <div align="center">
 
   <table>
