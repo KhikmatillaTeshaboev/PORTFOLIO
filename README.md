@@ -1,4 +1,4 @@
-# PORTFOLIO
+<h1 align="center">PORTFOLIO</h1>
 
 This repository serves as a destination for projects I worked on in Data Analytics, Financial Risk/Investment Analysis, and Business Intelligence.
 
