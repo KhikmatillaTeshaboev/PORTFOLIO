@@ -1,5 +1,10 @@
 <h1 align="center">PORTFOLIO</h1>
 
+## Table of Contents
+  1. [Escalation Rate Analysis](Power_BI/Escalation_Rate_Analysis)
+  2. [Hotel Bookings](Power_BI/Hotel_Bookings)
+---
+
 This repository serves as a destination for projects I worked on in Data Analytics, Financial Risk/Investment Analysis, and Business Intelligence.
 
 These are projects I worked on as part of my duties in previous positions (recreated with dummy data) or using publicly available datasets.
@@ -21,8 +26,5 @@ Each project is organized in its own folder with:
 
 ---
 
-## Table of Contents
-  1. [Escalation Rate Analysis](Power_BI/Escalation_Rate_Analysis)
-  2. [Hotel Bookings](Power_BI/Hotel_Bookings)
 
 ---
